@@ -1,12 +1,7 @@
 /data/train/
 /data/test/
 /src/models/
-*.pyc
 __pycache__/
 .ipynb_checkpoints/
-*.ipynb
 *.jpg
 *.png
-*.pth
-*.h5
-*.pt
